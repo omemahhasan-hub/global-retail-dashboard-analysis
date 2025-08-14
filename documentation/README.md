@@ -119,7 +119,7 @@ Multi-dimensional approach: Geographic (country-wise), Temporal (monthly pattern
 
 ---
 
-## 🚀 Project Outcomes
+##  Project Outcomes
 
 ### Deliverables
 - ✅ Interactive Excel dashboard (13 KPIs, 6 charts, country filtering)
