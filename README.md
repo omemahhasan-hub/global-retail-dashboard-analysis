@@ -48,7 +48,7 @@ This project showcases my ability to transform raw retail data into actionable i
 
 ##  DASHBOARD FEATURES
 **Executive Overview** 
-  (images/dashboards/Excel-dashboard-overview.PNG)
+  ![Dashboard 1](images/dashboards/Excel-dashboard-overview.PNG)
 **Interactive Elements:** Country slicer with real-time filtering across all components  
 **13 KPI Cards:** Orders, Sales, Profit, Quantity, Shipping, Returns, Top Products  
 **6 Visualizations:** Monthly trends, category analysis, segments, priorities, discounts, shipping  
