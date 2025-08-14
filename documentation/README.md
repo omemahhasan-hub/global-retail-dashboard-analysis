@@ -1,6 +1,6 @@
 # Global Superstore Performance Analysis - Data Analysis Documentation
 
-##  Project Overview
+## 📊 Project Overview
 
 ### Business Problem
 Comprehensive analysis of global superstore operations to identify sales patterns, profitability drivers, and operational efficiency opportunities across multiple countries, product categories, and customer segments.
@@ -18,7 +18,7 @@ Comprehensive analysis of global superstore operations to identify sales pattern
 
 ---
 
-##  Key Business Insights
+## 🔍 Key Business Insights
 
 ### Executive Summary
 **Primary Finding**: Global superstore achieved $12.64M in sales with 12% overall profit margin, while December emerges as peak sales month ($1.58M) and Technology category drives maximum profitability ($664K).
@@ -80,7 +80,7 @@ Multi-dimensional approach: Geographic (country-wise), Temporal (monthly pattern
 
 ---
 
-##  Technical Implementation
+## 📋 Technical Implementation
 
 ### Excel Features Used
 - **Data Processing**: 26-column transformation with comprehensive cleaning
@@ -103,7 +103,7 @@ Multi-dimensional approach: Geographic (country-wise), Temporal (monthly pattern
 
 ---
 
-##  Key Metrics & Results
+## 📊 Key Metrics & Results
 
 ### Primary KPIs Analyzed
 - **Sales Performance**: $12.64M total, $1.58M December peak, June-Dec concentration
@@ -119,7 +119,7 @@ Multi-dimensional approach: Geographic (country-wise), Temporal (monthly pattern
 
 ---
 
-##  Project Outcomes
+## 🚀 Project Outcomes
 
 ### Deliverables
 - ✅ Interactive Excel dashboard (13 KPIs, 6 charts, country filtering)
@@ -136,7 +136,7 @@ Multi-dimensional approach: Geographic (country-wise), Temporal (monthly pattern
 
 ---
 
-##  Dashboard Features
+## 📱 Dashboard Features
 
 ### Interactive Elements
 - **Country Slicer**: Dynamic filtering across all KPIs, charts, and tables
